@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.cache
+*.suo
+*.sqlite
+/SGBServiceAPI/obj/Release/net5.0/SGBServiceAPI.AssemblyInfo.cs
+*.editorconfig
+*.suo
+/.vs
+/SGBServiceAPI/obj
+/SGBServiceAPI/bin
